@@ -1,0 +1,7 @@
+/src/main/resources
+/src/test
+.idea
+data
+target
+pom.xml
+*.iml
