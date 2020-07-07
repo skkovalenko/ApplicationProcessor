@@ -8,8 +8,8 @@ import java.nio.file.Path;
 
 public class Main {
 
-    private static final String PATH_CSV_CLIENTS = "D:/Java/Tests/Alfa/balance_clients.csv";
-    private static final String PATH_TRANSACTION_REQUEST = "D:/Java/Tests/Alfa/transaction_request.csv";
+    private static final String PATH_CSV_CLIENTS = "путь к файлу со списком клиентов в csv формате";
+    private static final String PATH_TRANSACTION_REQUEST = "путь к файлу с заявками пакупка/продажа в csv формате";
 
     private static final String PATH_NEW_SCV_CLIENTS = "data/new_client_balances.csv";
     private static final String PATH_TRANSACTION_REPORT = "data/new_transaction_report.csv";
